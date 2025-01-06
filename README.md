@@ -5,6 +5,10 @@ DupLoss-2 is a program for phylogenomic species tree inference using gene tree p
 
 This repository includes complete source code, user manual, test data, and precompiled executables for macOS and Linux. In addition, a Python script to automate execution of multiple runs of DupLoss-2 on the same dataset is available in the Executables directory as MultiRunScript.py.
 
+## **Compiling and using the program**
+Datailed instructions for compiling from source and for executing the program are available in the user manual. For reference, a copy of the user manual is available from this GitHub link: [DupLoss-2 user manual](https://github.com/Bansal-CompBioLab/DupLoss-2/blob/main/DupLoss-2_UserManual.pdf) 
+
+## **Citation information**
 DupLoss-2 can be cited as follows:
 
 <i>DupLoss-2: Improved Phylogenomic Species Tree Inference under Gene Duplication and Loss</i><br>
