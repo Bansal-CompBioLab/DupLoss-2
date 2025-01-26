@@ -92,6 +92,8 @@ string legalChars4Name = "abcdefghijklmnopqrtsuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ01
 		((c>='0') && (c<='9')) || \
 		(c=='.') || \
 		(c=='-') || \
+		(c=='e') || \
+		(c=='E') || \
 		(c=='+') \
 	)
 

@@ -185,7 +185,9 @@ public:
 		} else {
 			do {
 				if (legalChar4Number(c)) {
-					name << c;
+			// adding new line of code to handle branch lengths in scientific notation (Jan 9, 2025)		
+					if ((c !='-') && (c !='e') && (c!='E')) 
+						name << c;
 				} else {
 					pushBack(c);
 					break;
