@@ -13,4 +13,4 @@ DupLoss-2 can be cited as follows:
 
 <i>DupLoss-2: Improved Phylogenomic Species Tree Inference under Gene Duplication and Loss</i><br>
 Rachel Parsons and Mukul S. Bansal<br>
-Under review.
+Systematic Biology; in press.
