@@ -11,6 +11,6 @@ Detailed instructions for compiling from source and for executing the program ar
 ## **Citation information**
 DupLoss-2 can be cited as follows:
 
-<i>DupLoss-2: Improved Phylogenomic Species Tree Inference under Gene Duplication and Loss</i><br>
+<a href="<a href="https://academic.oup.com/sysbio/advance-article/doi/10.1093/sysbio/syaf073/8284969?utm_source=authortollfreelink&utm_campaign=sysbio&utm_medium=email&guestAccessKey=d1ae810b-ecde-4534-9581-04c20091aa54">DupLoss-2: Improved Phylogenomic Species Tree Inference under Gene Duplication and Loss</a><br>
 Rachel Parsons and Mukul S. Bansal<br>
 Systematic Biology; in press.
