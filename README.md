@@ -13,4 +13,4 @@ DupLoss-2 can be cited as follows:
 
 <a href="https://academic.oup.com/sysbio/advance-article/doi/10.1093/sysbio/syaf073/8284969?utm_source=authortollfreelink&utm_campaign=sysbio&utm_medium=email&guestAccessKey=d1ae810b-ecde-4534-9581-04c20091aa54">DupLoss-2: Improved Phylogenomic Species Tree Inference under Gene Duplication and Loss</a><br>
 Rachel Parsons and Mukul S. Bansal<br>
-Systematic Biology; in press.
+Systematic Biology, 75(3): 605–614, 2026.
